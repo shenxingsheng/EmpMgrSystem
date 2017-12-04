@@ -75,7 +75,7 @@
 	<div class="container">
 		<div id="msg"></div>
 		<!-- servlet对应的url -->
-		<form action="servlet/regist" method="post">
+		<form action="index.jsp" method="post">
 			<input type="text" id="username" name="username" placeholder="请输入用户名" /><br />
 			<input type="password" id="password" name="password"
 				placeholder="请输入密码" /><br /> <input type="password"
